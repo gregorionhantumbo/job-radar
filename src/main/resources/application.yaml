@@ -1,3 +1,6 @@
 spring:
   application:
     name: job-radar
+
+  profiles:
+    default: dev
